@@ -1,0 +1,4 @@
+Install OpenCV ;,; 1
+Write a script to help me generate these html task lists ;,; 1
+Take pictures ;,; 1
+Learn open CV ;,; 0
